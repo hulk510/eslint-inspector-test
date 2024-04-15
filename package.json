@@ -1,0 +1,16 @@
+{
+  "name": "eslint-test",
+  "version": "1.0.0",
+  "description": "eslint inspector test",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "inspect": "eslint --inspect-config"
+  },
+  "author": "hulk510",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0"
+  }
+}
